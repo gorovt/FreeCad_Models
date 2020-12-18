@@ -6,6 +6,6 @@ Modelos de ejemplo de FreeCAD
 
 ## 01 - Piloto Estructural
 
-<img src="01-Piloto Estructural/Images/FreeCadEstructuraAvance.JPG" width="320" />
+<img src="01-Piloto_Estructural/Images/FreeCadEstructuraAvance.JPG" width="320" />
 
 Modelo piloto de una estructura simple de hormigón armado.
