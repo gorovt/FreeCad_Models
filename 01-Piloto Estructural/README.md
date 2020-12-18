@@ -2,7 +2,7 @@
 
 # Piloto Estructural
 
-<img src="01-Piloto Estructural/Images/FreeCadEstructuraAvance.JPG" width="640" />
+<img src="Images/FreeCadEstructuraAvance.JPG" width="640" />
 
 Modelo piloto de una estructura simple de hormigón armado.
 
