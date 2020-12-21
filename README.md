@@ -9,3 +9,9 @@ Modelos de ejemplo de FreeCAD
 <img src="01-Piloto_Estructural/Images/FreeCadEstructuraAvance.JPG" width="320" />
 
 Modelo piloto de una estructura simple de hormigón armado.
+
+## 02 - Librerías
+
+<img src="01-Piloto_Estructural/Images/RotuloA3.JPG" width="320" />
+
+Componentes necesarios para el proyecto.
