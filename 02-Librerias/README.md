@@ -2,6 +2,6 @@
 
 # Librerías
 
-<img src="Images/RotuloA3.JPG" width="320" />
+<img src="Images/RotuloA3.JPG" width="640" />
 
 En este repositorio se encuentran los diferentes rótulos y componentes necesarios para modelar y documentar los modelos BIM de referencia.
